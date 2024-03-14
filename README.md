@@ -1,4 +1,4 @@
-# Learn Deep Learning (Tensorflow/Pytorch)
+# Deep Learning (Tensorflow/Pytorch)
 
 | Project | Title | Hands-on Skills |
 | ------------- | ------------- | ------------- |
