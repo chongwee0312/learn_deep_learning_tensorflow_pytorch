@@ -28,8 +28,9 @@ Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch, Optuna
 
 # Table of Contents
 1. Introduction
-2. Data Exploration and Prprocessing
-3. Exploratory Data Analysis
-4. Modeling
-5. Model Evaluation
-6. Conclusion 
+2. Initialisation
+3. Data Exploration and Prprocessing
+4. Exploratory Data Analysis
+5. Modeling
+6. Model Evaluation
+7. Conclusion 
