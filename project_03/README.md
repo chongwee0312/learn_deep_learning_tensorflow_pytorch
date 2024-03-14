@@ -3,7 +3,7 @@
 # Main Libraries
 Pandas, Matplotlib, Seaborn, TensorFlow
 
-# Contents
+# Table of Contents
 1. Initialisation
 2. Load the Images
 3. Visualise the Images
